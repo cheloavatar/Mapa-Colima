@@ -521,6 +521,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-com",
         "name": "Comala",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>COMALA (COL)</td></tr></table>"
       }
