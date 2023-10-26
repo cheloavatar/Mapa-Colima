@@ -1116,6 +1116,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-min",
         "name": "Minatitlan",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>MINATITLAN (COL)</td></tr></table>"
       }
@@ -1595,6 +1596,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-cua",
         "name": "Cuauhtemoc",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>CUAUHTEMOC (COL)</td></tr></table>"
       }
@@ -2329,6 +2331,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-vil",
         "name": "Villa de Alvarez",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>VILLA DE ALVAREZ (COL)</td></tr></table>"
       }
@@ -3208,6 +3211,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-col",
         "name": "Colima",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>COLIMA (COL)</td></tr></table>"
       }
@@ -4767,6 +4771,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-man",
         "name": "Manzanillo",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>MANZANILLO (COL)</td></tr></table>"
       }
@@ -5361,6 +5366,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-coq",
         "name": "Coquimatlan",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>COQUIMATLAN (COL)</td></tr></table>"
       }
@@ -5720,6 +5726,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-Arm",
         "name": "Armeria",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>ARMERIA (COL)</td></tr></table>"
       }
@@ -6619,6 +6626,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-tec",
         "name": "Tecoman",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>TECOMAN (COL)</td></tr></table>"
       }
@@ -7113,6 +7121,7 @@
         ]
       },
       "properties": {
+        "hc-key":"col-ixt",
         "name": "Ixtlahuacan",
         "description": "Municipios<br><table border=0 cellpadding=2 cellspacing=2  width=250 style=\"FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;\"><tr bgcolor=\"#F4F1E4\"><td bgcolor=\"#f4eed3\" align=\"right\"><b>NOMBRE</b></td><td>IXTLAHUACAN (COL)</td></tr></table>"
       }
